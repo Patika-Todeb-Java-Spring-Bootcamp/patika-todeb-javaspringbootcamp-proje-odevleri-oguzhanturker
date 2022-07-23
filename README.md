@@ -21,3 +21,4 @@
 8. Satıcı ürününün anasayfada daha çok görünmesini istiyorsa reklam satın alabilir( ayrıcalıklı satıcı olabilir)
 
 ## Design 
+![Untitled Workspace](https://user-images.githubusercontent.com/51817404/180592993-f805cdc5-2c4b-4f4c-b189-068c1a0f2ca0.png)
